@@ -7,10 +7,22 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Kanboard</title>
+				
+				
+					<description>&lt;p&gt;&lt;a href=&quot;https://kanboard.org/&quot;&gt;Kanboard&lt;/a&gt; is a free and open source Kanban project management software. It has some features that will help you manage your agile project.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 04 May 2020 00:00:00 +0200</pubDate>
+				<link>/kanboard/</link>
+				<guid isPermaLink="true">/kanboard/</guid>
+			</item>
+		
+			<item>
 				<title>Redmine</title>
 				
 				
-					<description>&lt;p&gt;Redmine is a free and open source, web-based project management and issue tracking tool. It allows users to manage multiple projects and associated subprojects. It features per project wikis and forums, time tracking, and flexible, role-based access control. It includes a calendar and Gantt charts to aid visual representation of projects and their deadlines. Redmine integrates with various version control systems and includes a repository browser and diff viewer.&lt;/p&gt;
+					<description>&lt;p&gt;&lt;a href=&quot;https://www.redmine.org/&quot;&gt;Redmine&lt;/a&gt; is a free and open source, web-based project management and issue tracking tool. It allows users to manage multiple projects and associated subprojects. It features per project wikis and forums, time tracking, and flexible, role-based access control. It includes a calendar and Gantt charts to aid visual representation of projects and their deadlines. Redmine integrates with various version control systems and includes a repository browser and diff viewer. Read more about JIRA vs Redmine &lt;a href=&quot;https://medium.com/@bukhorimuhammad/moving-from-jira-to-redmine-daf20e36eda7&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
 				
 				<pubDate>Sat, 02 May 2020 00:00:00 +0200</pubDate>
